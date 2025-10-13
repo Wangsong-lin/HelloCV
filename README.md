@@ -2,6 +2,7 @@
 全部语雀文档链接：https://www.yuque.com/guogios/br9hnh/yo8xglaansmu38i6
                https://www.yuque.com/guogios/br9hnh/eweuza2mn9tyggmw
                https://www.yuque.com/guogios/br9hnh/wouaroark6e5md6p
+               https://www.yuque.com/guogios/br9hnh/mlekuriog69orvrm
          额外文档（汉化VScode过程）：https://www.yuque.com/guogios/br9hnh/yxpat0ygnt0duhfi      
 一、 现在我来详细介绍下ROS2的相关流程
 这里我先介绍下我参考的文章，以下是链接：
@@ -87,3 +88,8 @@ cat /usr/local/lib/pkgconfig/opencv4.pc
 这样于是便装好了
 语雀链接：https://www.yuque.com/guogios/br9hnh/wouaroark6e5md6p
 
+   
+
+四、git安装
+我直接给语雀链接：https://www.yuque.com/guogios/br9hnh/mlekuriog69orvrm
+这链接有具体流程可供参考。
